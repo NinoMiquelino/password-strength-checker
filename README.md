@@ -32,8 +32,11 @@
 
 ## ⚙️ Funcionalidades
 ​- ✅ Avaliação de Complexidade em Tempo Real: A força da senha é atualizada instantaneamente a cada caractere digitado, baseada em critérios como comprimento, variedade de caracteres (minúsculas, maiúsculas, números e especiais).
+
 ​- 🔍 Auditoria de Senha Comprometida (Backend): Implementação segura de verificação contra listas públicas de senhas vazadas (por exemplo, usando o princípio k-Anonymity de serviços como o Have I Been Pwned).
+
 ​- 💡 Feedback Visual Intuitivo: Utiliza uma barra de progresso com gradientes de cores (Vermelho/Fraco a Verde/Forte) e alertas claros de exposição.
+
 ​- 🌐 Código Modular: A lógica de validação front-end e a chamada ao serviço de auditoria backend são isoladas para facilitar a manutenção e a integração.
 
 ---
