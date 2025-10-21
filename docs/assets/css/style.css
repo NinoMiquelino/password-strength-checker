@@ -1,0 +1,13 @@
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f7fafc;
+        }
+        .password-strength-bar {
+            height: 8px;
+            width: 0;
+            transition: width 0.3s ease, background-color 0.3s ease;
+            border-radius: 4px;
+        }
+        .req-valid { color: #10b981; } /* Tailwind green-500 */
+        .req-invalid { color: #f87171; } /* Tailwind red-400 */
