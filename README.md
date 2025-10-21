@@ -14,13 +14,14 @@
 
 ![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Frontend JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status Stable](https://img.shields.io/badge/Status-Stable-success)
 ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
 ![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/password-strength-checker?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/password-strength-checker?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/password-strength-checker)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+
 
 ​💻 Visão Geral do Projeto
 ​Este projeto consiste em um Analisador de Força de Senha em Tempo Real, desenvolvido para validar a complexidade e a segurança de credenciais. Ele implementa uma arquitetura de segurança em duas camadas:
