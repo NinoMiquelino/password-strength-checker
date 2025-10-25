@@ -24,11 +24,14 @@
 
 ---
 
-​## 💻 Visão Geral do Projeto
-​Este projeto consiste em um Analisador de Força de Senha em Tempo Real, desenvolvido para validar a complexidade e a segurança de credenciais. Ele implementa uma arquitetura de segurança em duas camadas:
-​Análise de Complexidade (Frontend): Fornece feedback visual e instantâneo, guiando o usuário a criar senhas fortes.
-​Auditoria de Credenciais (Backend): Verifica se a senha (ou um hash seguro dela) está presente em bancos de dados de senhas vazadas publicamente, garantindo que a credencial não tenha sido previamente comprometida.
-​O objetivo é promover as melhores práticas de segurança e prevenir o uso de senhas fracas ou expostas.
+## 💻 Visão Geral do Projeto
+
+Este projeto consiste em um **Analisador de Força de Senha em Tempo Real**, desenvolvido para validar a complexidade e a segurança de credenciais. Ele implementa uma arquitetura de segurança em duas camadas:
+
+- **Análise de Complexidade (Frontend):** Fornece feedback visual e instantâneo, guiando o usuário a criar senhas fortes.  
+- **Auditoria de Credenciais (Backend):** Verifica se a senha (ou um hash seguro dela) está presente em bancos de dados de senhas vazadas publicamente, garantindo que a credencial não tenha sido previamente comprometida.
+
+O objetivo é promover as melhores práticas de segurança e prevenir o uso de senhas fracas ou expostas.
 
 ---
 
